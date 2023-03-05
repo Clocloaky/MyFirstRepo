@@ -4,4 +4,4 @@ save this and git will detect new changes to your repository :)
 
 This inside of your folder should have .git but sometimes it might not if you don't allow for hidden files to be shown. So don't worry if you don't see it.
 
-<img src='/data.gif' alt="just a gif smiley" style="height:35px">
+<img src='/data.gif' alt="just a gif smiley">
